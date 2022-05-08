@@ -1,4 +1,8 @@
-### Hi there 👋
+![State](https://github-readme-stats.vercel.app/api?username=Ghost-zy&show_icons=true&theme=radical)
+![GitHub followers](https://img.shields.io/github/followers/Ghost-zy?style=social)
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Ghost-zy.Ghost-zy&left_color=green&right_color=red)
 
 <!--
 **Ghost-zy/Ghost-zy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
