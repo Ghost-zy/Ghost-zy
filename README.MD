@@ -1,4 +1,4 @@
-![State](https://github-readme-stats.vercel.app/api?username=Ghost-zy&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=Ghost-zy&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghost-zy&layout=compact&hide_border=true&hide=html,css)
 
 ![GitHub followers](https://img.shields.io/github/followers/Ghost-zy?style=social)
